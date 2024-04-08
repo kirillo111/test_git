@@ -1,0 +1,82 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo{
+   padding:21.53px 77.66px;
+   display: flex;
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    padding: 0px 147px;
+   
+}
+
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+.text{
+
+  font-size: 50px;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  width: auto;
+}
+.under_text{
+  font-size: 20px;
+}
+ 
+h1{
+  margin: 30px 0px;
+}
+.general_giv{
+  display: flex;
+  justify-content: space-between;
+  padding: 86.4px 72px;
+}
+.pic_1{
+  height: 521px;
+  width: 428px;
+}
+.search{
+  width: 433px;
+  height: 72px;
+  margin: 40px 0px;
+}
+.search{
+  width: 300px;
+  font-size: 20px;
+}
+.block_2 h1{
+  font-size: 60px;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  width: auto;
+  text-align: center;
+  margin-top: 100px;
+}
+.block_2 li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: space-between;
+}
+
+.block_2{
+    display: flex;
+    justify-content: center;
+}
+
+.items{
+    width: 1150px;
+    display: flex;
+    justify-content: space-between;
+}
